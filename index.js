@@ -5,3 +5,6 @@ function Main() {
 function Main2() {
     console.log('doneBaiTapBuoi2');
 }
+function Main3() {
+    console.log('doneBaiTapBuoi3');
+}
